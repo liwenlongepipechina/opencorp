@@ -17,7 +17,7 @@
       <el-button type="warning" :icon="Star" circle />
       <el-button type="danger" :icon="Delete" circle />
     </el-row>
-    <div>测试</div>
+    <div>测试测试</div>
   </div>
 </template>
 
